@@ -3,6 +3,8 @@
   "repo": "KenanY/prime",
   "description": "Primality test",
   "version": "1.0.0",
+  "author": "Kenan Yildirim <kenan@kenany.me>",
+  "twitter": "@kyild",
   "keywords": ["math"],
   "dependencies": {},
   "development": {},
