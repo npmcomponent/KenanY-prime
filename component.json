@@ -1,0 +1,13 @@
+{
+  "name": "prime",
+  "repo": "KenanY/prime",
+  "description": "Primality test",
+  "version": "1.0.0",
+  "keywords": ["math"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
