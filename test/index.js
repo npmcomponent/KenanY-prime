@@ -1,5 +1,4 @@
-var prime = require('..'),
-   assert = require('assert');
+var prime = require('..');
 
 describe('prime(val)', function(){
   it('should return true for prime numbers', function(){
