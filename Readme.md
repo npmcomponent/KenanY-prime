@@ -22,9 +22,12 @@ prime(13);
 ## Development
 
 ``` shell
-$ npm install -g component
-$ npm install mocha should
+# Build
 $ make
+
+# Run tests
+$ npm install mocha should
+$ make test
 ```
 
 ## Links
