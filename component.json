@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Kenan Yildirim <kenan@kenany.me>",
   "twitter": "@kyild",
-  "keywords": ["math"],
+  "keywords": ["math", "number", "prime", "primality"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
