@@ -1,6 +1,9 @@
 # prime
 
-Primality test.
+Primality test as a [component](https://github.com/component).
+
+If you'd like a more powerful primality test, check out
+[primality](https://github.com/KenanY/primality).
 
 ## Installation
 
@@ -22,18 +25,9 @@ prime(13);
 ## Development
 
 ``` shell
-# Build
-$ make
-
-# Run tests
 $ npm install mocha should
-$ make test
+$ make
 ```
-
-## Links
-
-  - If you'd like a more powerful primality test, check out
-    [primality](https://github.com/KenanY/primality).
 
 ## License
 
