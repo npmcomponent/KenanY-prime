@@ -1,5 +1,7 @@
 # prime
 
+[![Dependency Status](https://gemnasium.com/KenanY/prime.png)](https://gemnasium.com/KenanY/prime)
+
 Primality test as a [component](https://github.com/component).
 
 If you'd like a more powerful primality test, check out
