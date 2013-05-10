@@ -25,7 +25,7 @@ prime(13);
 ## Development
 
 ``` shell
-$ npm install mocha should
+$ npm install
 $ make
 ```
 
