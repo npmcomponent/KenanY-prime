@@ -4,8 +4,7 @@
 
 Primality test as a [component](https://github.com/component).
 
-If you'd like a more powerful primality test, check out
-[primality](https://github.com/KenanY/primality).
+For primality testing in node, check out [primality](https://github.com/KenanY/primality).
 
 ## Installation
 
