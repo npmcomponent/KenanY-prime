@@ -2,7 +2,7 @@
  * Determine if number is prime.
  *
  * @param {Number} val
- * @return {Boolean}
+ * @return {Boolean} is prime
  * @api public
  */
 module.exports = function(val) {
