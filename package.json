@@ -1,5 +1,6 @@
 {
   "name": "prime",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "mocha": "~1.9.0",
