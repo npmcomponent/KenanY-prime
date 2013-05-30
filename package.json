@@ -1,7 +1,15 @@
 {
+  "private": true,
   "devDependencies": {
     "mocha": "~1.9.0",
     "should": "~1.2.0"
   },
-  "private": true
+  "testling": {
+    "browsers": [
+      "ie6", "ie7", "ie8", "ie9",
+      "firefox/15", "chrome/22", "opera/12", "safari/5.1"
+    ],
+    "harness" : "mocha",
+    "files": "test/index.js"
+  }
 }
