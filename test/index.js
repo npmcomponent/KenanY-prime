@@ -1,4 +1,5 @@
 var prime = require('../');
+var should = require('should');
 
 describe('prime(val)', function() {
   it('should return true for prime numbers', function(done) {
