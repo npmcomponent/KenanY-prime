@@ -6,6 +6,10 @@ Primality test as a [component](https://github.com/component).
 
 For primality testing in node, check out [primality](https://github.com/KenanY/primality).
 
+## Support
+
+[![Support](https://ci.testling.com/KenanY/prime.png)](https://ci.testling.com/KenanY/prime)
+
 ## Installation
 
 ``` shell

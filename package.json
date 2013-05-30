@@ -7,10 +7,15 @@
     "should": "~1.2.0"
   },
   "testling": {
-    "browsers": [
-      "ie6", "ie7", "ie8", "ie9",
-      "firefox/15", "chrome/22", "opera/12", "safari/5.1"
-    ],
+    "browsers": {
+      "ie": [9, 10],
+      "firefox": [17, "nightly"],
+      "chrome": [23, "canary"],
+      "opera": [12, "next"],
+      "safari": [5.1, 6],
+      "iphone": [6],
+      "ipad": [6]
+    },
     "harness" : "mocha",
     "files": "test/index.js"
   }
