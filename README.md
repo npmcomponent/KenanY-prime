@@ -12,7 +12,7 @@ For primality testing in Node.js, check out [primality](https://github.com/Kenan
 
 ## Installation
 
-``` shell
+``` bash
 $ component install KenanY/prime
 ```
 
