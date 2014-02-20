@@ -1,22 +1,13 @@
 {
-  "name": "prime",
+  "name": "kenany-prime",
+  "description": "Primality test",
   "version": "1.0.1",
-  "private": true,
-  "devDependencies": {
-    "mocha": "~1.9.0",
-    "should": "~1.2.0"
-  },
-  "testling": {
-    "browsers": {
-      "ie": [9, 10],
-      "firefox": [17, "nightly"],
-      "chrome": [23, "canary"],
-      "opera": [12, "next"],
-      "safari": [5.1, 6],
-      "iphone": [6],
-      "ipad": [6]
-    },
-    "harness" : "mocha",
-    "files": "test/index.js"
-  }
+  "keywords": [
+    "math",
+    "number",
+    "prime",
+    "primality"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
